@@ -1,4 +1,4 @@
-hello: main.c
-	gcc -o hello main.c -I.
+hello: src/main.c
+	gcc -o hello src/main.c -I.
 clean:
 	rm -f hello
