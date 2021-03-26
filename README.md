@@ -48,3 +48,7 @@ Name | Responsibilites
    A.Bokun | DB & documentation
    N.Korosteleva | UML, Report, Documentation
    D.Semenovich | Application, Kanban, Unit-tests
+
+Project Presentation 
+------------------
+https://docs.google.com/presentation/d/16VyFU6_tEN4-aXj1F2JgpevwKh3QTbvzvioiTIwF_mU/edit?usp=sharing
