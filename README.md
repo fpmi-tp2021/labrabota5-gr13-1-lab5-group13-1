@@ -15,11 +15,11 @@ Table | Fields
 The driver of the fleet can find out information: about his car, only his data - marked with * (asterisk)
 
 1. Using the Select statement returns the following information:
-  📌 for the specified driver list of completed orders for the specified period (*);                                                     
-  📌 the total distance travelled and the total weight of the transported goods by car (*);
-  📌 for each driver the total number of trips, total weight transported goods and the amount of earned money (*);
-  📌 the driver who made the smallest amount of trips, all information and the amount of the money;
-  📌 for car with the highest total mileage – all information(*); 
+  1.1📌 for the specified driver list of completed orders for the specified period (*);                                                     
+  1.2📌 the total distance travelled and the total weight of the transported goods by car (*);
+  1.3📌 for each driver the total number of trips, total weight transported goods and the amount of earned money (*);
+  1.4📌 the driver who made the smallest amount of trips, all information and the amount of the money;
+  1.5📌 for car with the highest total mileage – all information(*); 
 -----------------------------------------------------------------------------------------------------------  
 2. Provides an update of the information in the specified tables using the Insert, Update, and Delete statements.
 ----------------------------------------------------------------------------------------------------------- 
