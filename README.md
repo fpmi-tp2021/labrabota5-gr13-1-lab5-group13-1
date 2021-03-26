@@ -19,20 +19,16 @@ The driver of the fleet can find out information: about his car, only his data -
     1. 📌 for each driver the total number of trips, total weight transported goods and the amount of earned money `*`;
     1. 📌 the driver who made the smallest amount of trips, all information and the amount of the money;
     1. 📌 for car with the highest total mileage – all information`*`; 
-
+  
   --------------------------------------------------------------------------------------------------------------
-
 2. Provides an update of the information in the specified tables using the Insert, Update, and Delete statements.
 
 -------------------------------------------------------------------------------------
-
 3. The function that, when adding information to the order table,
 checks whether the weight of the load does not exceed the load capacity of the car, and if so, prohibits putting information in the table `*`.
 
 ----------------------------------------------------------------------------------------
-
 4. The function that determines the amount of money accrued to each driver for transportation during the specified period.
 
 ----------------------------------------------------------------------------------------------
-
 5. The function that determines the amount of money credited to the specified driver for transportation during the specified period.
