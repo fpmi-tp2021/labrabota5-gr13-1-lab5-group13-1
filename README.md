@@ -11,9 +11,9 @@ Table | Fields
 📃 Information about orders | date, driver's name, car number, mileage, weight of cargo, cost of transportation
 
 💻 The application has the following functionality:
-
+----------------------------------------------------------------------------------------------------------- 
 The driver of the fleet can find out information: about his car, only his data - marked with * (asterisk)
-----------------------------------------------------------------------------------------------------------
+
 1. Using the Select statement returns the following information:
   📌 for the specified driver list of completed orders for the specified period (*);                                                     
   📌 the total distance travelled and the total weight of the transported goods by car (*);
