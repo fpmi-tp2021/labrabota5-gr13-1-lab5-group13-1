@@ -36,7 +36,7 @@ checks whether the weight of the load does not exceed the load capacity of the c
 
 ----------------------------------------------------------------------------------------------
 5. The function that determines the amount of money credited to the specified driver for transportation during the specified period.
-
+-------------------------------------------------------
 ### Contributing:
 Name | Responsibilites
 ------------|-------------
