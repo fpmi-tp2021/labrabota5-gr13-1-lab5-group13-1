@@ -1,4 +1,4 @@
-### Project name: "Car fleet"
+# Project name: "Car fleet"
 Description
 ------------------
 ["Car fleet"](https://docs.google.com/document/d/10ehak4I5c0Vl53EqSSB33n9ijM-K8qSVYNXO3AeCq50/edit?usp=sharing) The car fleet provides services for orders for the transportation of goods, using its fleet of vehicles and its drivers for this purpose. The driver who completes the order receives 20 % of the cost of transportation.
@@ -38,4 +38,6 @@ checks whether the weight of the load does not exceed the load capacity of the c
 5. The function that determines the amount of money credited to the specified driver for transportation during the specified period.
 
 ### Contributing: 
-   
+   A.Bokun - DB & documentation
+   N.Korosteleva - UML, Report, Documentation
+   D.Semenovich - Application, Kanban, Unit-tests
