@@ -14,7 +14,7 @@ Table | Fields
 ----------------------------------------------------------------------------------------------------------- 
 The driver of the fleet can find out information: about his car, only his data - marked with `*`
 
-1. Using the Select statement returns the following information:
+Using the Select statement returns the following information:
   1. 📌 for the specified driver list of completed orders for the specified period `*`;                                                     
   1. 📌 the total distance travelled and the total weight of the transported goods by car `*`;
   1. 📌 for each driver the total number of trips, total weight transported goods and the amount of earned money `*`;
