@@ -8,7 +8,6 @@ Instalation
 Firstly run "Makefile" using the "make" command
 and then run the executable file "../bin/CarFleet"
 
------------------
 Usage
 ------------------
 Car fleet management has the following structure:
