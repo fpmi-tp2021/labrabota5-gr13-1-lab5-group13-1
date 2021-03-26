@@ -40,6 +40,6 @@ checks whether the weight of the load does not exceed the load capacity of the c
 ### Contributing:
 Name | Responsibilites
 ------------|-------------
-   A.Bokun - DB & documentation
-   N.Korosteleva - UML, Report, Documentation
-   D.Semenovich - Application, Kanban, Unit-tests
+   A.Bokun | DB & documentation
+   N.Korosteleva | UML, Report, Documentation
+   D.Semenovich | Application, Kanban, Unit-tests
